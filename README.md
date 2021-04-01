@@ -1,7 +1,7 @@
-## Hi, my name is Evgeny! I am front-end developer.
+## `Hi, my name is Evgeny! I am front-end developer.`
 
-
-### Languages and Tools
+---
+### Languages and Tools:
 ![React](https://img.shields.io/badge/-React-134076?style=for-the-badge&logo=react)
 ![Redux](https://img.shields.io/badge/-Redux-134076?style=for-the-badge&logo=Redux)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-134076?style=for-the-badge&logo=JavaScript)
@@ -11,8 +11,14 @@
 ![CSS](https://img.shields.io/badge/-CSS-134076?style=for-the-badge&logo=CSS3)
 ![material_ui](https://img.shields.io/badge/-material_ui-134076?style=for-the-badge&logo)
 ![Unit_test](https://img.shields.io/badge/-Unit_test-134076?style=for-the-badge&logo)
+---
+- ## 💼 [Portfolio](https://potapov-eo.github.io/portfolio/)
+- ## 📋 [CV](https://github.com/potapov-eo/potapov-eo/blob/main/assets/CV.pdf)
+- [<img align="left" alt="CodeWars" width="300px" src="https://www.codewars.com/users/potapov.eo/badges/large"/>](https://www.codewars.com/users/potapov.eo)
 
-### Contact me
-[![Telegram](https://img.shields.io/badge/-Telegram-134076?style=for-the-badge&logo=Telegram)](t.me/potapov_eo)
-![LinkedIn](https://img.shields.io/badge/-LinkedIn-134076?style=for-the-badge&logo=LinkedIn)
+___
+### Contact me:
+[![Telegram](https://img.shields.io/badge/-Telegram-134076?style=for-the-badge&logo=Telegram)](https://t.me/potapov_eo)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-134076?style=for-the-badge&logo=LinkedIn)](https://www.linkedin.com/in/evgeny-potapov-23a591209)
+[![Email](https://img.shields.io/badge/-Email-134076?style=for-the-badge&logo=Email)](mailto:potapov.eo@gmail.com)
 
