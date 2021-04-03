@@ -1,4 +1,4 @@
-## `Hi, my name is Evgeny! I am front-end developer.`
+## `Hi, my name is Evgeny! I am front-end developer(React).`
 
 ---
 ### Languages and Tools:
