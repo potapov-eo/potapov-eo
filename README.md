@@ -13,7 +13,7 @@
 ![Unit_test](https://img.shields.io/badge/-Unit_test-134076?style=for-the-badge&logo)
 ---
 - ## 💼 [Portfolio](https://potapov-eo.github.io/portfolio/)
-- ## 📋 [CV](https://github.com/potapov-eo/potapov-eo/blob/main/assets/CV.pdf)
+- ## 📋 [CV](https://drive.google.com/file/d/1LppvmrJQ6eeR2KL7FqgD72RjFiiiLCOW/view)
 - [<img align="left" alt="CodeWars" width="300px" src="https://www.codewars.com/users/potapov.eo/badges/large"/>](https://www.codewars.com/users/potapov.eo)
 
 ___
